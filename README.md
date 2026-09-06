@@ -51,32 +51,33 @@ Manage software operations and internal tools supporting a 15+ person team; coor
 ### 🖼️ Pixel Forge AI
 AI-integrated image enhancement project applying a 4x super-resolution model (Real-ESRGAN) to restore low-resolution and older images.
 `Python` `PyTorch` `Real-ESRGAN` `Flask`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/PixelForgeAI)*
 
-### 🧑‍💻 Smart Facial Recognition Attendance System
+### 🧑‍💻 Facial Recognition Attendance System
 Real-time attendance platform integrating facial recognition, liveness detection, geofencing, offline synchronization, and multilingual support, later extended with a mobile component.
 `Python` `OpenCV` `CNNs`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/Facial-Recognization-Attendance-System)*
 
 ### 🔍 SearchMaster API
 Python/REST API and web-scraping tool that automates Google searches, extracting structured results for downstream integration and research.
 `Python` `REST API` `Web Scraping`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/Search-Master-API)*
 
 ### 🩺 Diabetic Retinopathy Detection *(In Development)*
 Computer-vision project exploring automated classification of diabetic retinopathy across the 5 standard severity grades using retinal fundus images.
 `Python` `Deep Learning` `Computer Vision`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/Diabetic-Retinopathy-Detection---Streamlit-Web-Application)*
 
 ### 📱 Facial Recognition Mobile
 Independent mobile app extending real-time facial recognition into a standalone, on-device authentication tool.
 `Mobile` `Facial Recognition`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/Facial-Recognition-Mobile)*
 
 ### 🌾 Unique Agro Feed
 Website and software support for a real client business, including ongoing operational and stakeholder coordination.
 `PHP` `MySQL`
-🔗 *(add repo link)*
+🔗 *(https://github.com/KHBH003/UniqueAgroFeed)
+(https://uniqueagro-6012c.web.app/)*
 
 ---
 
